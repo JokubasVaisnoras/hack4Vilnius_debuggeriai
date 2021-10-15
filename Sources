@@ -1,3 +1,6 @@
 Traffic data:
-https://github.com/vilnius/traffic - vilniaus datas
+https://github.com/vilnius/traffic - vilniaus data
+https://developers.google.com/maps/documentation/directions/get-directions - google trip planning, traffic model
+https://docs.microsoft.com/en-us/bingmaps/rest-services/traffic/?redirectedfrom=MSDN - bing data
+https://developer.here.com/documentation/map-tile/dev_guide/topics/resource-traffic-flowbasetile.html - here data
 
